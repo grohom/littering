@@ -5,7 +5,7 @@
 - In a park there are 200 agents wandering aimlessly. You are one of these agents.
 - An agent has a circular field of view with radius 20 pixels.
 - When nobody sees it, an agent litters with some probability (initially set to 5%).
-- A piece of litter disappears with probability 2% in each time step.
+- A piece of litter decomposes with probability 2% in each time step.
 - If an agent sees litter, it is unhappy. Otherwise it is happy.
 - Your average happiness is graphed orange.
 - The population littering probability is green.
