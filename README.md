@@ -1,5 +1,7 @@
 # Littering behavior simulation
 
+[The simulation](https://grohom.github.io/littering/)
+
 ## Setting
 
 - In a park there are 200 agents wandering aimlessly. You are one of these agents.
