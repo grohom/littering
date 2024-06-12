@@ -6,6 +6,10 @@ body {
     background-color: black;
 }
 
+.explanation {
+    color: white;
+}
+
 #controls {
     font-size: 0.9em;
     margin: 1em;
